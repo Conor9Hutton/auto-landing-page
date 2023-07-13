@@ -1,3 +1,3 @@
 # Huddle landing page
 
-![Check out my live preview here](./design/desktop-preview.jpg)
+![Check out my live preview here](https://conor9hutton.github.io/auto-landing-page/)
